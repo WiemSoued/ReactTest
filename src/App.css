@@ -7,6 +7,19 @@
   height: 40vmin;
   pointer-events: none;
 }
+.yellow {
+  color: yellowgreen;
+}
+
+.bold {
+  font-weight: bold;
+}
+.p:hover {
+  color: orangered;
+}
+.App:hover {
+  color: purple;
+}
 
 .App-header {
   background-color: #282c34;
